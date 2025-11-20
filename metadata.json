@@ -1,0 +1,5 @@
+{
+  "name": "MockupAI Studio",
+  "description": "Upload your logo and instantly generate professional product mockups using Gemini 2.5 Flash Image. Also features standalone high-quality image generation with Imagen 4.",
+  "requestFramePermissions": []
+}
